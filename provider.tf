@@ -1,2 +1,2 @@
-provider "aviatrix" {
-}
+#provider "aviatrix" {
+#}
