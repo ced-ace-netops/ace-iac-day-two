@@ -4,7 +4,6 @@ locals {
     tcp = {
       "*.aviatrix.com"     = "443"
       "aviatrix.com"       = "80"
-      "*.ubuntu.com"       = "80"
       "*.cloud.google.com" = "443"
       "*.aws.amazon.com"   = "443"
       "*.ubuntu.com"       = "80"
